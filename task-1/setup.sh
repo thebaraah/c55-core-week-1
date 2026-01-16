@@ -1,5 +1,4 @@
-# Write your code here
-=======
+
 barbari@baraahs-MBP-2 ~ % pwd
 /Users/barbari
 barbari@baraahs-MBP-2 ~ % echo "Creating project..."
@@ -80,10 +79,6 @@ LibraryWebProgramming 	file1.txt		myapp
 Movies			file2.txt		project
 Music			flask web app		project_flask.zip
 Notebook python 	hello.js		user
-barbari@baraahs-MBP-2 project % echo "All done!"
-dquote> 
-barbari@baraahs-MBP-2 project % cd ~/project
-
 barbari@baraahs-MBP-2 project % cd ~/project
 barbari@baraahs-MBP-2 project % echo "All done"
 All done
