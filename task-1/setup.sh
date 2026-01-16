@@ -83,15 +83,10 @@ Music			flask web app		project_flask.zip
 Notebook python 	hello.js		user
 barbari@baraahs-MBP-2 project % echo "All done!"
 dquote> 
-barbari@baraahs-MBP-2 project % echo "All done!"
-dquote> 
 barbari@baraahs-MBP-2 project % cd ~/project
 barbari@baraahs-MBP-2 project % echo "All done!"
 dquote> 
 barbari@baraahs-MBP-2 project % cd ~/project
-barbari@baraahs-MBP-2 project % bash project.sh
-bash: project.sh: No such file or directory
-barbari@baraahs-MBP-2 project % 
 barbari@baraahs-MBP-2 project % echo "All done"
 All done
 barbari@baraahs-MBP-2 project % echo "All done!"
