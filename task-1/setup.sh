@@ -83,12 +83,8 @@ Notebook python 	hello.js		user
 barbari@baraahs-MBP-2 project % echo "All done!"
 dquote> 
 barbari@baraahs-MBP-2 project % cd ~/project
-barbari@baraahs-MBP-2 project % echo "All done!"
-dquote> 
+
 barbari@baraahs-MBP-2 project % cd ~/project
 barbari@baraahs-MBP-2 project % echo "All done"
 All done
-barbari@baraahs-MBP-2 project % echo "All done!"
-dquote> 
-barbari@baraahs-MBP-2 project % echo "All done"
-All done
+
