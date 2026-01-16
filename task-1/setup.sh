@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Write your code here
 =======
 barbari@baraahs-MBP-2 ~ % pwd
@@ -93,5 +92,3 @@ barbari@baraahs-MBP-2 project % echo "All done!"
 dquote> 
 barbari@baraahs-MBP-2 project % echo "All done"
 All done
-
->>>>>>> 482889f (Complete core week 1 assignment)
